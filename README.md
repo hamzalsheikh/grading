@@ -1,1 +1,1 @@
-A distributed system in go 
+A distributed system in Go
